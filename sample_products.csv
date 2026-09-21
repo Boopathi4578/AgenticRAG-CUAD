@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductBrand,Gender,Price (INR),NumImages,Description,PrimaryColor
+1001,Men Navy Blue Cotton Slim Fit Casual Shirt,Roadster,Men,1199.0,4,Navy blue woven casual shirt with a spread collar and long sleeves,Navy Blue
+1002,Women Red & Black Floral Print A-Line Dress,Tokyo Talkies,Women,1499.0,5,Red and black floral print knitted A-line dress with short puff sleeves,Red
+1003,Men Black Running Shoes,Nike,Men,4995.0,4,Black mesh upper lightweight cushioned running shoes with flexible rubber sole,Black
+1004,Unisex White Leather Sneakers,Puma,Unisex,3599.0,3,Classic low-top white leather sneakers with perforated detail and durable rubber outsole,White
+1005,Women Blue High-Rise Stretchable Jeans,Levis,Women,2899.0,4,Dark blue shade high-rise 5-pocket jeans created from premium stretch denim,Blue
+1006,Men Olive Green Hooded Sweatshirt,HRX,Men,1799.0,4,Olive green solid sweatshirt with an attached hood long sleeves and kangaroo pocket,Olive
+1007,Women Rose Gold Analog Watch,Fossil,Women,7995.0,3,Rose gold-plated stainless steel mesh strap analog watch with mineral glass dial,Rose Gold
+1008,Men Charcoal Grey Tailored Fit Trousers,Park Avenue,Men,2199.0,4,Charcoal grey solid mid-rise formal trousers with button closure and 4 pockets,Charcoal
+1009,Women Yellow Printed Cotton Kurta,Biba,Women,1299.0,5,Yellow straight printed cotton calf-length kurta with three-quarter sleeves,Yellow
+1010,Unisex Black Canvas Backpack,Wildcraft,Unisex,1499.0,4,Water-resistant black canvas backpack featuring 2 main compartments and padded shoulder straps,Black
+1011,Men White Oxford Button-Down Shirt,Arrow,Men,1899.0,4,Crisp white cotton Oxford weave shirt with button-down collar and chest pocket,White
+1012,Women Peach Embroidered Anarkali Suit,Aurelia,Women,3499.0,5,Peach georgette Anarkali kurta with thread embroidery paired with matching palazzo and dupatta,Peach
+1013,Men Brown Leather Derby Shoes,Clarks,Men,5499.0,3,Full-grain brown leather Derby shoes with cushioned insole and durable Goodyear welt construction,Brown
+1014,Women Teal Printed Wrap Dress,Global Desi,Women,1799.0,5,Teal printed viscose wrap dress with flutter sleeves and self-tie belt,Teal
+1015,Men Grey Melange Slim Fit Chinos,Flying Machine,Men,1599.0,4,Grey melange stretch cotton slim fit chinos with mid-rise waistband and four pockets,Grey
+1016,Women Gold Jhumka Earrings,Zaveri Pearls,Women,599.0,3,Oxidised gold-tone brass jhumka earrings with meenakari enamel and hanging pearl drops,Gold
+1017,Men Red Sports Running T-Shirt,Adidas,Men,1299.0,4,Red moisture-wicking Climalite running tee with reflective logo and mesh side panels,Red
+1018,Women Black Yoga Pants,Nykaa Fashion,Women,999.0,4,High-waist black 4-way stretch yoga pants with hidden pocket and flatlock seams,Black
+1019,Kids Blue Denim Dungaree,H&M,Kids,1199.0,5,Light blue denim dungaree with adjustable straps and multiple pockets for boys aged 4-10,Blue
+1020,Men Tan Casual Loafers,Bata,Men,1999.0,4,Tan synthetic leather slip-on loafers with cushioned footbed and flexible rubber sole,Tan
+1021,Women Maroon Silk Saree,Kanchipuram Silks,Women,8999.0,6,Pure Kanchipuram silk saree in deep maroon with contrast zari border and woven peacock motifs,Maroon
+1022,Men Black Slim Fit Jeans,Pepe Jeans,Men,2499.0,4,Jet black stretch denim slim fit jeans with slight fade effect and 5-pocket styling,Black
+1023,Women Pink Floral Printed Maxi Skirt,AND,Women,1399.0,5,Dusty pink floral printed chiffon maxi skirt with elasticated waistband and flared hem,Pink
+1024,Unisex Grey Cotton Hoodie,The Souled Store,Unisex,1299.0,4,Charcoal grey 100% cotton fleece hoodie with kangaroo pocket and drawstring hood,Grey
+1025,Men Beige Formal Blazer,Raymond,Men,6999.0,3,Beige single-breasted slim fit wool-blend blazer with notch lapels and two-button closure,Beige
+1026,Women Blue Denim Jacket,Levi's,Women,3299.0,4,Classic light blue denim trucker jacket with two chest pockets and button-front closure,Blue
+1027,Men Sports Ankle Socks Pack of 3,Dollar Socks,Men,299.0,2,Pack of 3 cushioned ankle socks in white black and grey with anti-blister ribbed band,White
+1028,Women Burgundy Velvet Clutch,Aldo,Women,2299.0,3,Burgundy velvet hard-case clutch with gold chain strap and magnetic snap closure,Burgundy
+1029,Men Olive Military Cargo Pants,Spykar,Men,2199.0,4,Olive green cotton cargo pants with 6 pockets and adjustable ankle drawstring,Olive
+1030,Women Cream Linen Blazer,Zara,Women,4999.0,4,Off-white linen relaxed-fit blazer with padded shoulders and single button front,Cream
+1031,Kids Pink Unicorn Sneakers,Skechers,Kids,2499.0,5,Pink glitter sneakers with unicorn print lights-up sole for girls aged 3-8,Pink
+1032,Men Navy Blue Polo T-Shirt,U.S. Polo Assn.,Men,1499.0,4,Navy blue pique cotton polo tee with contrast tipping on collar and ribbed cuffs,Navy Blue
+1033,Women Green Embroidered Clutch Potli,Craft Trade,Women,799.0,3,Bottle green silk potli bag with gold zari embroidery and drawstring closure,Green
+1034,Men Camel Brown Chelsea Boots,Woodland,Men,4499.0,3,Genuine leather camel brown Chelsea boots with elastic side panels and stacked heel,Brown
+1035,Women Off-White Palazzo Pants,W,Women,1099.0,4,Off-white straight cut palazzo pants in lightweight crepe with elasticated waistband,Off-White
+1036,Men Black Leather Belt,Hidesign,Men,1799.0,2,Full-grain black leather formal belt with silver-tone pin buckle in 38mm width,Black
+1037,Women Lavender Chikankari Kurta,Lucknow Chikan,Women,1599.0,5,Lavender cotton Chikankari hand-embroidered straight kurta with three-quarter sleeves,Lavender
+1038,Men Grey Running Shorts,Reebok,Men,999.0,3,Light grey 5-inch running shorts with inner mesh liner and zip side pocket,Grey
+1039,Women Sunflower Yellow Crossbody Bag,Baggit,Women,1999.0,4,Sunflower yellow vegan leather crossbody bag with adjustable strap and front zip pocket,Yellow
+1040,Unisex Brown Leather Wallet,Fastrack,Unisex,999.0,3,Brown bi-fold genuine leather wallet with 6 card slots and transparent ID window,Brown
+1041,Men Dark Blue Printed Kurta,Fabindia,Men,1999.0,4,Dark blue hand block printed cotton kurta with mandarin collar and side slits,Blue
+1042,Women Silver Oxidised Bracelet,Voylla,Women,449.0,3,German silver oxidised statement bracelet with turquoise stone setting and push-lock clasp,Silver
+1043,Men Gym Training Gloves,Nivia,Men,599.0,3,Black neoprene half-finger gym gloves with wrist strap and anti-slip grip palm,Black
+1044,Women Royal Blue Palazzo Suit Set,Libas,Women,2699.0,5,Royal blue printed rayon kurta with flared palazzo and matching chiffon dupatta,Blue
+1045,Men Charcoal Wool Beanie,Superdry,Men,899.0,3,Charcoal grey ribbed wool-blend beanie with embroidered logo and turn-up cuff,Charcoal
+1046,Women Nude Block Heel Sandals,Steve Madden,Women,4299.0,4,Nude patent block-heel ankle-strap sandals with cushioned insole and 7cm heel height,Nude
+1047,Men Dark Green Bomber Jacket,Jack & Jones,Men,3999.0,4,Dark olive green satin bomber jacket with ribbed collar cuffs and hem and zip pockets,Green
+1048,Women White Embroidered Tote Bag,Accessorize,Women,2299.0,4,White cotton canvas tote with colourful thread embroidery and leather handle trim,White
+1049,Men Sky Blue Linen Shirt,Celio,Men,1699.0,4,Sky blue relaxed fit linen shirt with patch chest pocket and roll-up sleeve tabs,Blue
+1050,Women Multicolour Printed Kurti,Jaipur Kurti,Women,1199.0,5,Multicolour Rajasthani block print cotton kurti with V-neck and three-quarter sleeves,Multicolour

@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.local
+
+# Virtual environment
+.venv/*
+
+# Contract Data
+contracts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS metadata
+.DS_Store
+
+# Other skills md file
+.agents/
+.claude/
+.ruff_cache/
+
+# Database backups
+backups/
+*.dump
+*.sql.gz
+
+# Evaluation results
+evals/results/*
+
